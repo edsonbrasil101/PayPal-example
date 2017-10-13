@@ -5,6 +5,13 @@
         <title>Integração PayPal (Softblue)</title>
     </head>
     <body>
-        Pagamento abortado.
+    	<style type="text/css">
+    		.alert{
+    			color:#f00;
+    		}
+    	</style>
+        <h2 class="alert">
+        	Pagamento abortado.
+        </h2>
     </body>
 </html>
