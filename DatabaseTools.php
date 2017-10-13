@@ -16,10 +16,10 @@
     */
     
     // Dados de conexão com o banco de dados
-    define('MYSQL_HOST',        'exemplo.mysql.seusite.com.br'); // Endereço do seu servidor de banco de dados
-    define('MYSQL_DATABASE',    'meuBancoDeExemplo'); // Nome do seu banco de dados
-    define('MYSQL_USER',        'meuUsuario'); // Usuário do seu banco de dados
-    define('MYSQL_PASSWORD',    '**********'); // Senha do banco de dados
+    define('MYSQL_HOST',        '172.0.0.1'); // Endereço do seu servidor de banco de dados
+    define('MYSQL_DATABASE',    'paypal'); // Nome do seu banco de dados
+    define('MYSQL_USER',        'root'); // Usuário do seu banco de dados
+    define('MYSQL_PASSWORD',    ''); // Senha do banco de dados
     
     require_once("AuxiliarTools.php");
     
