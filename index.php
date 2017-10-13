@@ -5,6 +5,7 @@
         <title>Integração PayPal (Softblue)</title>
     </head>
     <body>
+        <h2>PayPal - SoftBlue</h2>
         <form action="PayPalSampleSender.php" method="post">
             Nome: <input type=text name=formName><br>
             E-mail: <input type=text name=formEmail><br>
